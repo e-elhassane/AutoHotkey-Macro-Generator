@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AHK-Macro-Generator/static/css/main.e6c13ad2.css",
-    "main.js": "/AHK-Macro-Generator/static/js/main.cce188ed.js",
-    "index.html": "/AHK-Macro-Generator/index.html",
-    "main.e6c13ad2.css.map": "/AHK-Macro-Generator/static/css/main.e6c13ad2.css.map",
-    "main.cce188ed.js.map": "/AHK-Macro-Generator/static/js/main.cce188ed.js.map"
+    "main.css": "/AHK-Generator/static/css/main.e6c13ad2.css",
+    "main.js": "/AHK-Generator/static/js/main.db2d1258.js",
+    "index.html": "/AHK-Generator/index.html",
+    "main.e6c13ad2.css.map": "/AHK-Generator/static/css/main.e6c13ad2.css.map",
+    "main.db2d1258.js.map": "/AHK-Generator/static/js/main.db2d1258.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.cce188ed.js"
+    "static/js/main.db2d1258.js"
   ]
 }
